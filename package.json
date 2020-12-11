@@ -1,0 +1,24 @@
+{
+  "name": "dec-to-binary",
+  "version": "1.3.0",
+  "description": "A node.js package to convert decimal numbers into equivalent binary numbers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "deicmal",
+    "to",
+    "binary",
+    "decimal",
+    "numbers",
+    "decimal",
+    "converter"
+  ],
+  "author": "Aashay Trivedi",
+  "license": "ISC",
+  "dependencies": {
+    "bignumber.js": "^9.0.1"
+  }
+}
