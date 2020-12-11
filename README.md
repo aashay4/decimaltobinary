@@ -24,7 +24,6 @@ var decimal = require('dec-to-binary')
 
 console.log(decimal.decimal("10"));
 ```
-[demo](https://binarytotext.net/decimal-to-binary/)
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
